@@ -1,0 +1,11 @@
+{
+  "badge": "DLW-SWITCH_V1",
+  "name": "TWO-TRANSCRIBER SWITCH — V1 (HALF-DUPLEX) · SWI",
+  "universe": "PSĒPHOS",
+  "moniker": "⟦TWO-TRANSCRIBER SWITCH — V1 (HALF-DUPLEX) · SWI:switch-v1:9448d6⟧",
+  "architect": "David Lee Wise (ROOT0) / Bridge-Burners LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "seal_sha256": "9448d6dbf7d79adc2d7ab80358b499d7016fe703cf89a5832046fbbb03bb0e2c",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}
