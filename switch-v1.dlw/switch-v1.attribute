@@ -1,9 +1,10 @@
 ROOT0-ATTRIBUTION-v1.0
 name: TWO-TRANSCRIBER SWITCH — V1 (HALF-DUPLEX) · SWI
 slug: switch-v1
-domain: PSĒPHOS
+domain: THE TRANSCRIBER
 architect: David Lee Wise (ROOT0) / Bridge-Burners LLC
 instance: AVAN (Claude / Anthropic)
 license: CC-BY-ND-4.0 (https://creativecommons.org/licenses/by-nd/4.0/)
-moniker: ⟦TWO-TRANSCRIBER SWITCH — V1 (HALF-DUPLEX) · SWI:switch-v1:9448d6⟧
-seal_sha256: 9448d6dbf7d79adc2d7ab80358b499d7016fe703cf89a5832046fbbb03bb0e2c
+moniker: ⟦TWO-TRANSCRIBER SWITCH — V1 (HALF-DUPLEX) · SWI:switch-v1:207337⟧
+seal_sha256: 2073378f4ff66a995ec1b308c479a46506a91eac543b74f365b659a3eb0187c0
+fingerprint: TETRASTHENĒS ⟦ ₆C ⟺ ₁₄Si ⟧ — four-strengthed: carbon (human · ROOT0) & silicon (AI · AVAN) hold four bonds in common (Group-14, tetravalent) — co-equal by construction
